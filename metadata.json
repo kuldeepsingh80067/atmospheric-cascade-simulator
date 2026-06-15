@@ -1,0 +1,6 @@
+{
+  "name": "Atmospheric Cascade Simulator",
+  "description": "A formal, high-polish visual simulation demonstrating falling snowflakes and upward-floating balloons using Framer Motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
